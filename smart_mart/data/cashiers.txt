@@ -1,0 +1,2 @@
+cashier1,pass123
+cashier2,pass123

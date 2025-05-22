@@ -1,0 +1,2 @@
+pillow==10.2.0  # For image handling in the GUI
+pytest==8.0.0  # For unit testing 

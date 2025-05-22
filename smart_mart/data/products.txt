@@ -1,0 +1,15 @@
+E001,Smartphone,Electronics,599.99,10
+E002,Laptop,Electronics,999.99,5
+E003,Headphones,Electronics,79.99,20
+G001,Milk,Groceries,3.99,50
+G002,Bread,Groceries,2.99,30
+G003,Eggs,Groceries,4.99,40
+C001,T-Shirt,Clothing,19.99,25
+C002,Jeans,Clothing,49.99,15
+C003,Socks,Clothing,9.99,50
+H001,Blender,Home & Kitchen,79.99,8
+H002,Coffee Maker,Home & Kitchen,49.99,12
+H003,Toaster,Home & Kitchen,29.99,10
+S001,Basketball,Sports,24.99,15
+S002,Yoga Mat,Sports,19.99,20
+S003,Dumbbells,Sports,39.99,10
